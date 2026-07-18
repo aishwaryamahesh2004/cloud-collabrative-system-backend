@@ -27,5 +27,19 @@ This is the backend of the Cloud Collaborative System, a real-time collaborative
 3. Start the server:
    node server.js
 
+   ## Project Screenshots
+
+### Create / Join Room
+![Create / Join Room](screenshots/join-room.png.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png.png)
+
+### Code Editor
+![Code Editor](screenshots/editor.png.png)
+
+### Login Page
+![Login](screenshots/login.png.png)
+
 ## Author
 *Aishwarya H M*
